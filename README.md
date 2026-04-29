@@ -1,6 +1,7 @@
 # paper-reader
 
-A WorkBuddy skill that reads academic papers, technical articles, and patents, then produces structured Obsidian-compatible markdown notes.
+A skill that reads academic papers, technical articles, and patents, then produces structured Obsidian-compatible markdown notes.
+> I created this skill with WorkBuddy.
 
 ## What it does
 
