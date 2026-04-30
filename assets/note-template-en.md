@@ -16,7 +16,7 @@ reading_pass: 3
 
 ---
 
-## Pass 1: Skim (5-10 min)
+## Pass 1: Skim
 > Keshav Pass 1: decide whether this paper is worth reading
 
 - **C1 Type**: Survey / New method proposed / Analysis of existing system / Research prototype / Empirical study?
@@ -29,7 +29,7 @@ reading_pass: 3
 
 ---
 
-## Pass 2: Detailed Read (1 hour)
+## Pass 2: Detailed Read
 
 ### Research Motivation (Why)
 - What problem does this paper address?
@@ -88,7 +88,7 @@ reading_pass: 3
 
 ---
 
-## Pass 3: Deep Reimplementation (4-5 hours, optional)
+## Pass 3: Deep Reimplementation
 > Virtual reimplementation: think with the authors
 
 - How would I approach this problem?
